@@ -1,0 +1,34 @@
+#img{
+    border: 1px solid red;
+}
+
+#project-1{
+    background: url(./image/3d-rendering-cartoon-shopping-cart-min.jpg);
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#project-2{
+    background: url(./image/coastal-landscape-fantasy-style-min.jpg);
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#project-3{
+    background: url(./image/woman-scrolling-laptop-min.jpg);
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
